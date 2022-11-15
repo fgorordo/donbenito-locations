@@ -1,77 +1,20 @@
 [
   {
     "ufNumber": "02",
-    "ufProp": "Funes / Costa",
+    "ufProp0": "Nombre completo1",
+    "ufProp1": "Nombre completo2",
     "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
   },
   {
-    "ufNumber": "03",
-    "ufProp": "Camarasa",
-    "locationLink": "https://google.com.ar"
+    "ufNumber": "02",
+    "ufProp0": "Nombre completo3",
+    "ufProp1": "Nombre completo4",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
   },
   {
-    "ufNumber": "05",
-    "ufProp": "Lopez / Lopez Naveiro",
-    "locationLink": "https://google.com.ar"
-  },
-  {
-    "ufNumber": "07",
-    "ufProp": "Larlus / Santander",
-    "locationLink": "https://google.com.ar"
-  },
-  {
-    "ufNumber": "11",
-    "ufProp": "Marian",
-    "locationLink": "https://google.com.ar"
-  },
-  {
-    "ufNumber": "12",
-    "ufProp": "Bernarda / Castiglioni",
-    "locationLink": "https://google.com.ar"
-  },
-  {
-    "ufNumber": "13",
-    "ufProp": "D'elio / Romegialli",
-    "locationLink": "https://google.com.ar"
-  },
-  {
-    "ufNumber": "15",
-    "ufProp": "Urra / Lopez Harburu",
-    "locationLink": "https://google.com.ar"
-  },
-  {
-    "ufNumber": "16",
-    "ufProp": "De Gaetani / Scaccia",
-    "locationLink": "https://google.com.ar"
-  },
-  {
-    "ufNumber": "17",
-    "ufProp": "Martinez Dodda / Arrieta",
-    "locationLink": "https://google.com.ar"
-  },
-  {
-    "ufNumber": "19",
-    "ufProp": "Filomeno",
-    "locationLink": "https://google.com.ar"
-  },
-  {
-    "ufNumber": "21",
-    "ufProp": "Mones Ruiz",
-    "locationLink": "https://google.com.ar"
-  },
-  {
-    "ufNumber": "22",
-    "ufProp": "Raimundo / Boher",
-    "locationLink": "https://google.com.ar"
-  },
-  {
-    "ufNumber": "26",
-    "ufProp": "De Gaetani / Pascual",
-    "locationLink": "https://google.com.ar"
-  },
-  {
-    "ufNumber": "39/40",
-    "ufProp": "Mones Ruiz / Altamirano",
-    "locationLink": "https://google.com.ar"
+    "ufNumber": "02",
+    "ufProp0": "Nombre completo5",
+    "ufProp1": "Nombre completo6",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
   }
 ]
