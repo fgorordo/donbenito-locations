@@ -7,5 +7,5 @@ export const getPropsByName = (name = '') => {
     return props;
   };
 
-  return props.filter( prop => prop.ufProp0.toLowerCase().includes(name) || prop.ufProp1.toLowerCase().includes(name) );
+  return props.filter( prop => prop.ufOwner.toLowerCase().includes(name) || (prop.ufCoOwner ? prop.ufCoOwner.toLowerCase().includes(name) : ''));
 }

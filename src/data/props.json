@@ -1,20 +1,152 @@
 [
   {
     "ufNumber": "02",
-    "ufProp0": "Nombre completo1",
-    "ufProp1": "Nombre completo2",
+    "ufOwner": "Gustavo J. Funes",
+    "ufCoOwner": "Marcela Costa",
     "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
   },
   {
-    "ufNumber": "02",
-    "ufProp0": "Nombre completo3",
-    "ufProp1": "Nombre completo4",
+    "ufNumber": "03",
+    "ufOwner": "Alicia C. Camarasa",
     "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
   },
   {
-    "ufNumber": "02",
-    "ufProp0": "Nombre completo5",
-    "ufProp1": "Nombre completo6",
+    "ufNumber": "04",
+    "ufOwner": "Fernando J. Sanchez",
+    "ufCoOwner": "Gisela V. Feo",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "05",
+    "ufOwner": "Gustavo G. Lopez",
+    "ufCoOwner": "Helena Naviero De La Serna",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "06",
+    "ufOwner": "Marcela S. Sobron",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "07",
+    "ufOwner": "Guillermo G. Larlus",
+    "ufCoOwner": "Florencia Santander",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "08",
+    "ufOwner": "Juan Ignacio Elustondo",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "10",
+    "ufOwner": "Marcantonio Matias",
+    "ufCoOwner": "Eliana M. Di Camillo",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "11",
+    "ufOwner": "Gustavo D. Marian",
+    "ufCoOwner": "Veronica P. Ermini",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "12",
+    "ufOwner": "Roberto H. Bernarda",
+    "ufCoOwner": "Silvia S. Castiglioni",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "13",
+    "ufOwner": "Fernando D'Elio",
+    "ufCoOwner": "Noelia E. Romegialli",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "14",
+    "ufOwner": "Gustavo G. Gonzalez Anta",
+    "ufCoOwner": "Ana I. Di Pietro",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "15",
+    "ufOwner": "Emiliano F. Urra",
+    "ufCoOwner": "Manuela Lopez Harburu",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "16",
+    "ufOwner": "Analia S. De Gaetani",
+    "ufCoOwner": "Mariano H. Scaccia",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "17",
+    "ufOwner": "Natalia Martinez Dodda",
+    "ufCoOwner": "Eleazar Arrieta",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "18",
+    "ufOwner": "Tomas E. Toranza",
+    "ufCoOwner": "Macarena Alcala Zamora",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "19",
+    "ufOwner": "Pablo N. Filomeno",
+    "ufCoOwner": "Carolina E. Arias",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "20",
+    "ufOwner": "Eugenio A. Junoy",
+    "ufCoOwner": "Cecilia B. Campora",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "21",
+    "ufOwner": "Magdalena E. Mones Ruiz",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "22",
+    "ufOwner": "Jose A. Raimundo",
+    "ufCoOwner": "Maria Del Huerto Boher",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "26",
+    "ufOwner": "Vanesa E. De Gaetani",
+    "ufCoOwner": "Pablo I. J. Pascual",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "39/40",
+    "ufOwner": "Pablo Altamirano",
+    "ufCoOwner": "Catalina Mones Ruiz",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "41",
+    "ufOwner": "Juan M. Lolo",
+    "ufCoOwner": "Vanesa C. Galli",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "42",
+    "ufOwner": "Jose I. Cuesta",
+    "ufCoOwner": "Ana Clara Altamirano",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "43",
+    "ufOwner": "Federico Mitre",
+    "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
+  },
+  {
+    "ufNumber": "44",
+    "ufOwner": "Santiago Martin",
     "locationLink": "https://goo.gl/maps/yN1YxnM6T9guvphf6"
   }
 ]
