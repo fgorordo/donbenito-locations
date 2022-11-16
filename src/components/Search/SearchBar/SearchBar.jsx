@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { FaSearchLocation } from 'react-icons/fa';
 import { getPropsByName } from '../../../helpers/getPropsByName';
 import NotFound from '../../NotFound';
@@ -8,16 +8,21 @@ const SearchBar = () => {
   const [searchInputText, setSearchInputText] = useState('')
 
   const onInputChange = (event) => {
-    setSearchInputText(event.target.value)
+    setSearchInputText(event.target.value)  
   }
 
   const onFormSubmit = (event) => {
     event.preventDefault();
-    console.log(searchInputText)
   }
 
-  const props = getPropsByName(searchInputText);
-  console.log(props)
+  let props = getPropsByName(searchInputText);
+
+  useEffect(() => {
+    props = getPropsByName(searchInputText)
+
+  }, [searchInputText])
+  
+  
   return (
     <>
       <form className='p-5 flex flex-col text-center' onSubmit={onFormSubmit}>
@@ -43,14 +48,14 @@ const SearchBar = () => {
         <ul className='m-0 py-0'>
           {
             props.length === 0 ? (
-            <NotFound searchText={searchInputText}/>
+            <NotFound searchText={searchInputText} />
             )
             :
             (
               props.map(prop => {
                 return (
-                  <li className='odd:bg-[#50903C] even:bg-[#8FB435] mb-[2px] rounded' key={prop.ufNumber}>
-                    <OwnerPlate owner={prop.ufOwner} coOwner={prop.ufCoOwner} locationLink='#' ufNumber={prop.ufNumber} />
+                  <li className='odd:bg-[#50903C] even:bg-[#8FB435] mb-[2px] rounded animate-appearing' key={prop.ufNumber}>
+                    <OwnerPlate owner={prop.ufOwner} coOwner={prop.ufCoOwner} locationLink={prop.locationLink} ufNumber={prop.ufNumber} />
                   </li>
                 )
               })
